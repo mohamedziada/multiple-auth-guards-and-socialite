@@ -12,8 +12,8 @@ multiple authentication guards and socialite in Laravel multiple auth guards and
 - Social Media login "Twitter, Facebook, Google and Microsoft" using [Laravel Socialite
 ](https://laravel.com/docs/8.x/socialite) & [socialite providers](https://socialiteproviders.com)
 - [Laravel jetstream](https://jetstream.laravel.com/1.x/introduction.html) & [Laravel livewire](https://laravel-livewire.com/docs/2.x/quickstart)
-- Free HTML5 + CSS3 [Template by html5up.net](https://html5up.net/future-imperfect)
-
+- Free TailwindCSS [Creative Tim – Tailwind started kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+ 
 
 ## Security Vulnerabilities
 
